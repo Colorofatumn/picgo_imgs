@@ -1,2 +1,3 @@
 # picgo_imgs
-picgo的图床
+picgo的图床 用于存储typro中的图片和pic_go中的图片，由于将pic_go中的文件和typro两个相关联了，所以在typro中的图片可以通过pic_go直接传给github,还加了一个加速器呢
+
